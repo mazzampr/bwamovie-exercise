@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912620811056",
+    "project_id": "bwa-mov-74782",
+    "storage_bucket": "bwa-mov-74782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912620811056:android:973186da485c4968e3cef5",
+        "android_client_info": {
+          "package_name": "com.mazzampr.bwamovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912620811056-eodm4330s26aql1qpjlngasba9378dd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcvzqVuS3gwclvdZ9bA6D7Rl6Q1dvp4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912620811056-eodm4330s26aql1qpjlngasba9378dd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
